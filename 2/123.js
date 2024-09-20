@@ -11,7 +11,7 @@ const homeTexts = {
 		ru: "ru",
 		en: "en",
 		de: "de",
-	
+	},
 	"home_page-title": {
 		ru: "Домашняя страница",
 		en: "Homepage",
