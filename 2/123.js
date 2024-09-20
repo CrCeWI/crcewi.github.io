@@ -6,6 +6,12 @@ let currentLang =
 let currentTexts = {};
 
 const homeTexts = {
+
+         "lang": {
+		ru: "ru",
+		en: "en",
+		de: "de",
+	
 	"home_page-title": {
 		ru: "Домашняя страница",
 		en: "Homepage",
